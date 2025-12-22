@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home Page</title>
+    </head>
+    <body>
+        <div class="content">
+        </div>
+         <hr>
+         <br>
+         
+            <h1 style="text-align: center;color:crimson">My Favourite Cartoon Images</h1>
+            <h2>My First Favourite cartoon Is Dr Binocs</h2>
+
+            <center><img src="https://www.primevideo.com/detail/Learn-With-Dr-Binocs/0IP3FYAITHBI2XCKWUQK6H9VPP"</center>
+
+            <h3>My Second Favourite Cartoon Is Bluey</h3>
+
+            <center><img src="https://psnews.com.au/welcome-to-blueys-world-with-a-brisbane-backdrop-for-a-new-breed-tourism-magnet/136449/"</center>
